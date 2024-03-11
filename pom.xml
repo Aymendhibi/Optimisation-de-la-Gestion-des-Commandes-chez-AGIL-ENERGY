@@ -18,6 +18,7 @@
 		<sonar.projectKey>com.spring-jwt:spring-jwt </sonar.projectKey>
 		<sonar.host.url>http://192.168.33.10:9000</sonar.host.url>
 		<sonar.login>sqp_0f1ee0af440e32656604f53e720c97d0932a38af</sonar.login>
+		<sonar.java.binaries>target/classes</sonar.java.binaries>
 		<java.version>17</java.version>
 	</properties>
 
